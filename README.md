@@ -44,7 +44,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 <br>
 <!--<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp -->
- <img src="https://img.shields.io/badge/Flask-555555?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
+ <!--<img src="https://img.shields.io/badge/Flask-555555?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp -->
+ <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white "/></a>&nbsp 
  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white "/></a>&nbsp 
  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black"/></a>
 </p>
