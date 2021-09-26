@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>
+<!--<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>-->
 <br>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <br>
 <!--<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp -->
  <!--<img src="https://img.shields.io/badge/Flask-555555?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp -->
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white "/></a>&nbsp 
  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white "/></a>&nbsp 
  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white "/></a>&nbsp 
  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black"/></a>
